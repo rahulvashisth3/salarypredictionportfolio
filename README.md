@@ -19,23 +19,11 @@ train_salaries.csv: Each row associates a job Id along with salary.
 test_features.csv: Similar to train_features.csv, each row represents metadata for an individual job posting.
 
 Features
+*Job-Type - Janitor, Manager, CEO, CFO etc.
+*Degree - High school, College, Master's etc.
+*Major - Physics, Biology, Maths etc.
+*Industry - Health, Finance, Oil etc.
+*Years-of_Experience - Candidate experience in years
+*Miles-From_Metropolis - Distance from the Metropolis
 
-Job-Type - Janitor, Manager, CEO, CFO etc.
-Degree - High school, College, Master's etc.
-Major - Physics, Biology, Maths etc.
-Industry - Health, Finance, Oil etc.
-Years-of_Experience - Candidate experience in years
-Miles-From_Metropolis - Distance from the Metropolis
-Every row has a unique JOB-ID, there is a column and COMPANY-ID which is the company identifier
-
-This dataset contains both numeric and catergorical varibles.
-Numeric varibales -
-    -yearsExperience: work experience in years
-    -milesFromMetropolis: The distance from company's location to employee place.
-    -Salary: Target variable
-
-Categorical varibales-
-    -jobType: Type of job.For example- CEO,CTO and manager.
-    -major: Specific concentration
-   -degree:Educational qualification. eg. High school, masters
-   -industry: The industry where the company is specilized in.
+Every row has a unique JOB-ID, there is a column and COMPANY-ID which is the company identifier.
