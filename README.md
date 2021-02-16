@@ -2,10 +2,11 @@
 
  Salary Prediction Project (Python)
 
-# Define the Problem
+## Define the Problem
 
  Project Goal: The goal of this project is to examine the dataset of job postings, and predict salaries for a new set of postings which involves building a model to predict the   salaries given in the test dataset.
 
- Practical use: HR Department who need real-time solutions in order to make effective employment offers to potential hires.
-
- Tool: Python 3 (Jupyter Notebook) with a wide range of libraries/packages available for data manipulation and predictive modeling algorithms.
+ Practical use: Human Resource department ( HR) of a company contains two fold objectives, namely to attract and retain the talented employees and It also helps job seekers to take more informed decisions and update their skills/knowledge to maximize salary.
+ 
+ Tool: Python 3 (Jupyter Notebook) and the libraries- numpy, pandas, matplotlib, seaborn and sklearn.
+## Data
