@@ -147,3 +147,19 @@ Every row has a unique JOB-ID, there is a column and COMPANY-ID which is the com
 2. Create models
 
 3. Evaluate Models
+
+![](Images/EvalMod.JPG)
+
+4. Use the testing dataset to test the best model - the best model in this case is the gradient boosting algorithm.
+
+# Deploy Solution
+
+1. Create a csv file with the predicitons on the testing dataset.
+
+2. Identify the most influencial feature.
+
+![](Images/FeatImp.JPG)
+
+* The most important feature to predict salary is Job Type.
+
+* The least import feature to predict salary is Degree Type.
