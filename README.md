@@ -85,7 +85,7 @@ Every row has a unique JOB-ID, there is a column and COMPANY-ID which is the com
   
   ![](Images/JobType.JPG)
   
-   * From the boxplot, Janitors generally have lower salaries compared to the other job types and CEO/CTO have higher salaries compared to other job types.
+     * From the boxplot, Janitors generally have lower salaries compared to the other job types and CEO/CTO have higher salaries compared to other job types.
   
    
      
