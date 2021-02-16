@@ -78,3 +78,9 @@ Every row has a unique JOB-ID, there is a column and COMPANY-ID which is the com
   - Random Forest Regressor - improves the accuracy by reducing overfitting problem and the variance in decision trees
 
   - GradientBoostingRegressor - data contains weakly correlated features, gradient boosting regression combines weak learners into a single strong learner, which could be an     improvement to the baseline mode
+  
+  # Feature Summary
+  
+  - Job Type Feature
+  
+  
