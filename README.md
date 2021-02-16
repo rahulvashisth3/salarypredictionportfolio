@@ -1,6 +1,11 @@
 # salarypredictionportfolio
-Salary Prediction Project (Python)
 
-GOAL : Predict salary based on Job Description
+ Salary Prediction Project (Python)
 
-INTRODUCTION: The prediction of Salary structure in Human Resource department ( HR) of a company contains two fold objectives, namely to attract and retain the talented employees.
+# Define the Problem
+
+ Project Goal: The goal of this project is to examine the dataset of job postings, and predict salaries for a new set of postings which involves building a model to predict the   salaries given in the test dataset.
+
+ Practical use: HR Department who need real-time solutions in order to make effective employment offers to potential hires.
+
+ Tool: Python 3 (Jupyter Notebook) with a wide range of libraries/packages available for data manipulation and predictive modeling algorithms.
