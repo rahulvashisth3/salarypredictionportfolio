@@ -81,7 +81,7 @@ Every row has a unique JOB-ID, there is a column and COMPANY-ID which is the com
   
   # Feature Summary
   
-* Job Type Feature
+## * Job Type Feature
   
 ![](Images/JobType.JPG)
   
@@ -90,7 +90,7 @@ Every row has a unique JOB-ID, there is a column and COMPANY-ID which is the com
   
   * From this, there is a relationship between salaries and job types.
    
-* Degree Feature
+## * Degree Feature
  
 ![](Images/Degree.JPG)
 
@@ -100,7 +100,7 @@ Every row has a unique JOB-ID, there is a column and COMPANY-ID which is the com
   
   * From this, there is a relationship between salaries and degree types.
   
-* Major Feature
+## * Major Feature
 
 ![](Images/Major.JPG)
 
@@ -110,7 +110,7 @@ Every row has a unique JOB-ID, there is a column and COMPANY-ID which is the com
   
   * From this, there is a relationship between salaries and degree types.
   
-* Industry Feature
+## * Industry Feature
 
 ![](Images/Industry.JPG)
 
@@ -120,5 +120,12 @@ Every row has a unique JOB-ID, there is a column and COMPANY-ID which is the com
   
   * From this, there is a relationship between salaries and degree types.
   
+## * Salary Distribution
+
+![](Images/SalaryDistribution.JPG)
+
+* Summary
+
+  * The salary range is high between 80 to 150.
 
 
