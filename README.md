@@ -78,3 +78,72 @@ Every row has a unique JOB-ID, there is a column and COMPANY-ID which is the com
   - Random Forest Regressor - improves the accuracy by reducing overfitting problem and the variance in decision trees
 
   - GradientBoostingRegressor - data contains weakly correlated features, gradient boosting regression combines weak learners into a single strong learner, which could be an     improvement to the baseline mode
+  
+  # Feature Summary
+  
+##  Job Type Feature
+  
+![](Images/JobType.JPG)
+  
+* Summary
+  * From the boxplot, Janitors generally have lower salaries compared to the other job types and CEO/CTO have higher salaries compared to other job types.
+  
+  * From this, there is a relationship between salaries and job types.
+   
+##  Degree Feature
+ 
+![](Images/Degree.JPG)
+
+* Summary
+
+  * From the boxplot, people with no degrees and in high school generally have lower salaries compared to the other degree type.
+  
+  * From this, there is a relationship between salaries and degree types.
+  
+##  Major Feature
+
+![](Images/Major.JPG)
+
+* Summary
+
+  * From the boxplot, people who have 'none' major generally have lower salaries compared to the other majors.
+  
+  * From this, there is a relationship between salaries and degree types.
+  
+##  Industry Feature
+
+![](Images/Industry.JPG)
+
+* Summary
+
+  * From the boxplot, people with who work in the finance and oil industries generally have higher salaries compared to the other degree types.
+  
+  * From this, there is a relationship between salaries and degree types.
+  
+##  Salary Distribution
+
+![](Images/SalaryDistribution.JPG)
+
+* Summary
+
+  * The salary range is high between 80 to 150.
+
+
+## Correlation Matrix
+
+![](Images/CorrMat.JPG)
+
+* Summary
+
+  * Strong positive correlation - with each of the variables - Jobtype, degree, major, industry, experience have positive correlation with salary(our target variable).
+  
+  * Negative correlation - exist between miles from metropolis and salary.
+  
+# Model Development
+
+1. Feature Engineering
+  * Transform categorical features into individual binary feature using the one hot encoding approach.
+
+2. Create models
+
+3. Evaluate Models
