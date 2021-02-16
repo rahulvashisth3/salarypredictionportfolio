@@ -83,7 +83,5 @@ Every row has a unique JOB-ID, there is a column and COMPANY-ID which is the com
   
   - Job Type Feature
   
-  <img src = "Images/jobType.JPG" >
-  
-  ![](Images/jobType.JPG)
+  ![](Images/JobType.JPG)
   
