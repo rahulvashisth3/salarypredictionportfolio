@@ -154,7 +154,7 @@ Every row has a unique JOB-ID, there is a column and COMPANY-ID which is the com
 
 # Deploy Solution
 
-1. Create a csv file with the predicitons on the testing dataset.
+1. Create a csv file with the predicitons on the testing dataset.  
 
 2. Identify the most influencial feature.
 
